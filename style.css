@@ -1,0 +1,27 @@
+body {
+  background-color: #fefefe;
+}
+h1 {
+  font-size: large;
+  color: coral;
+  font-style: italic;
+}
+h2 {
+  font-size: medium;
+  color: #1406aa;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+p {
+  color: darkred;
+}
+.Naglowek {
+  color: darkred;
+  text-emphasis: size;
+  animation: forwards;
+}
+.Lista {
+  color: deeppink;
+  font-size: 22pt;
+  background-color: #1855a3;
+}
