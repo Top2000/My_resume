@@ -24,7 +24,27 @@ p {
   color: deeppink;
   font-size: 22pt;
   background-color: #1855a3;
+  border-color: #d8d8d8;
+  border: 10px;
+  border-radius: 7px;
 }
-.Naglowek__headin--title{
-  width: 1000px;
+.naglowek__heading--title{
+  max-width: 1000px;
+  position: relative;
+  margin-left: 475px;
+  padding-top: 20px;
+
+}
+.naglowek__heading--img{
+  position: relative;
+  margin-left: 475px;
+  padding: 20px;
+}
+.Navigation__Header{
+  color: rgb(0, 4, 243);
+  font-size: 25px;
+  background-color: lawngreen;
+  border-radius: 5px;
+  border-color: #1406aa;
+
 }
