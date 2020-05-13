@@ -1,5 +1,55 @@
 body {
   background-color: #fefefe;
+  color: white;
+}
+.box-first{
+width:  100 px;
+overflow: auto;
+border: 3px solid red;
+padding: 20 px;
+margin: 20 px;
+box-sizing: border-box;
+border-radius: 5px;
+text-align: center;
+background-color: lawngreen;
+color: wheat;
+}
+.box-second{
+  width: 250px;
+  height: 240px;
+  overflow: auto;
+  border: 3px solid rosybrown;
+  padding: 20px;
+  margin: 20px;
+  
+  border-radius: 5px;
+  text-align: center;
+  background-color: #123456;
+  display: inline-block;
+}
+.box-third{
+  width:  100 px;
+overflow: auto;
+border: 3px solid red;
+padding: 20 px;
+margin: 20px;
+box-sizing: border-box;
+border-radius: 5px;
+text-align: center;
+background-image: url(https://bi.im-g.pl/im/f1/ae/18/z25879793IH,O--Tadeusz-Rydzyk.jpg);
+color: azure;
+}
+.box-fourth{
+  width:  100 px;
+  overflow: auto;
+  border: 3px solid red;
+  padding: 20 px;
+  margin: 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  text-align: center;
+  background-color: lightgreen;
+ 
 }
 h1 {
   font-size: large;
@@ -12,9 +62,8 @@ h2 {
   font-family: "Times New Roman", Times, serif;
   font-weight: bold;
 }
-p {
-  color: darkred;
-}
+
+
 .Naglowek {
   color: darkred;
   text-emphasis: size;
